@@ -1,0 +1,30 @@
+
+legend.medico {
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+div.Form-group {
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+input.form-control{
+    margin-left: 5px;
+}
+
+input.custom-range {
+    margin-left: 5px;
+}
+
+select.custom-select {
+    margin-left: 5px;
+}
+
+button.btn {
+    margin-left: 550px;
+}
